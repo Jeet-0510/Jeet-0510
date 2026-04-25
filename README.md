@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer | AI Systems • Data Engineering • Cloud</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeet0510/"><img src="https://img.shields.io/badge/LinkedIn-Jeet%20Prajapati-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:jeetprajapati0510@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://leetcode.com/JEET-0510/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/></a>
-  <a href="https://www.codechef.com/users/jeet_510"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/jeet0510/">LinkedIn</a> • 
+  <a href="mailto:jeetprajapati0510@gmail.com">Email</a> • 
+  <a href="https://leetcode.com/JEET-0510/">LeetCode</a> • 
+  <a href="https://www.codechef.com/users/jeet_510">CodeChef</a>
 </p>
 
 ---
@@ -84,18 +84,24 @@ I enjoy solving complex problems, designing scalable systems, and working on pro
 
 ---
 
+## 📜 Certifications
+
+- 🧠 [AWS Certified AI Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/5703eeedc10441f58c64202519a3f849)  
+- 📊 [AWS Certified Data Engineer – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/f27b193e54f441328d70244c00b9f0f6)  
+
+---
+
 ## 📄 Publications
 
-📌 *Garbage Classification using Deep Learning Architectures*  
-- Published at **ICCIS 2023 (Springer)**  
+📌 [Garbage Classification using Deep Learning Architectures (ICCIS 2023 - Springer)](https://link.springer.com/chapter/10.1007/978-981-97-2053-8_29)  
 - 🏆 Awarded **Best Research Paper**
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jeet0510/  
-- 📧 Email: jeetprajapati0510@gmail.com  
+- 💼 <a href="https://www.linkedin.com/in/jeet0510/">LinkedIn</a>  
+- 📧 <a href="mailto:jeetprajapati0510@gmail.com">Email</a>  
 
 ---
 
