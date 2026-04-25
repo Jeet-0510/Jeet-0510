@@ -1,127 +1,102 @@
 <h1 align="center">Hi 👋, I'm Jeet Prajapati</h1>
-<h3 align="center">🚀 Software Engineer | AI Systems | Data Engineering | AWS Cloud</h3>
+<h3 align="center">Software Engineer | AI Systems • Data Engineering • Cloud</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeet-0510&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/jeet0510/"><img src="https://img.shields.io/badge/LinkedIn-Jeet%20Prajapati-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:jeetprajapati0510@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://leetcode.com/JEET-0510/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/></a>
+  <a href="https://www.codechef.com/users/jeet_510"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 💡 Results-driven Software Engineer building **AI-driven systems, data pipelines, and cloud-native applications**
-- 🤖 Currently working on **AI Agents, Semantic Search, and Data Automation**
-- ☁️ Strong experience with **AWS (Lambda, ECS, OpenSearch, S3, SQS, Step Functions)**
-- 🧠 Passionate about **Generative AI, scalable systems, and solving real-world problems**
-- 🏆 **Gold Medalist (CSE)** from CHARUSAT
+Results-driven Software Engineer with hands-on experience in building **AI-driven systems, data automation pipelines, and cloud-based applications**.  
+
+I enjoy solving complex problems, designing scalable systems, and working on products that make real-world impact. My work spans across **AI agents, backend systems, mobile apps, and cloud-native architectures**.  
+
+- 💡 Strong in **problem solving & analytical thinking**
+- ⚡ Passionate about **building scalable & intelligent systems**
+- 📈 Growth-oriented mindset with continuous learning approach
+- 🤝 Open to collaboration on impactful projects
 
 ---
 
-## 🔥 What I Do
+## 🧠 What I Work On
 
-- 🧠 Build **AI Agents using OpenAI SDK** for intelligent data querying
-- 🔍 Develop **semantic search systems** for large-scale datasets (150K+ videos)
-- ⚙️ Design **data automation & enrichment pipelines**
-- ☁️ Architect **scalable cloud solutions on AWS**
-- 📊 Work with **data engineering, ETL pipelines, and backend systems**
+- 🤖 AI Agents & Intelligent Systems  
+- ☁️ Cloud-based Scalable Architectures  
+- 🔄 Data Automation & Enrichment Pipelines  
+- 📊 Backend Systems & APIs  
+- 📱 Mobile & Web Application Development  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`Python` `Java` `C/C++` `Dart` `SQL`
-
-### 🤖 AI & ML
-`OpenAI SDK` `AWS Bedrock` `TwelveLabs` `Vector Embeddings` `Semantic Search`
-
-### ☁️ Cloud & DevOps
-`AWS Lambda` `ECS` `EC2` `S3` `SQS` `Step Functions`  
-`API Gateway` `Cognito` `SES` `OpenSearch` `DynamoDB` `DocumentDB`  
-`Docker (Basics)`
-
-### 🗄️ Databases
-`MySQL` `MongoDB` `DynamoDB` `OpenSearch`
+`Python` `C/C++` `Java` `Dart` `JavaScript` `SQL`
 
 ### ⚙️ Frameworks & Tools
-`FastAPI` `Flutter` `Git` `GitHub` `Postman` `VS Code`
+`FastAPI` `Flutter` `Git` `Docker` `Postman`
+
+### ☁️ Cloud & Databases
+`AWS (Lambda, ECS, S3, OpenSearch, DynamoDB, Step Functions, API Gateway)`  
+`MySQL` `MongoDB` `Firebase`
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### 🔍 AI Video Search Pipeline
-- Built a **semantic search engine for 150K+ videos**
-- Enabled **text & image-based search using embeddings**
-- Designed scalable AWS architecture for fast retrieval
-
----
-
-### 📊 Data Enrichment Platform
-- Automated **CSV data enrichment in minutes**
-- Built scalable pipeline using **AWS Step Functions + Lambda**
-- Integrated external APIs for real-time data enhancement
+### 🎬 AI Video Search Pipeline
+- Built a **semantic search system** for large-scale video datasets (~150K videos)
+- Enabled **text & image-based search** across multimedia content
+- Designed a **scalable cloud architecture** for ingestion, processing, and retrieval
 
 ---
 
-### 🤖 AI Data Agent
-- Developed **context-aware AI agent using OpenAI SDK**
-- Converts natural language queries → structured data insights
-- Eliminates manual data searching
+### 📊 Data Enrichment Pipeline
+- Developed an **automated data processing platform** for CSV/Excel datasets  
+- Enabled users to upload raw data and receive **enriched structured outputs in minutes**  
+- Built a **scalable pipeline architecture** for large-scale data processing  
+
+---
+
+### 📱 Public Welfare Schemes Application
+- Built an Android application to **simplify access to government schemes**  
+- Implemented features for **application tracking, submission, and admin workflows**  
+
+---
+
+### 🚗 Rent a Ride – Vehicle Rental App
+- Developed a **peer-to-peer vehicle rental platform**  
+- Enabled real-time **search, booking, and listing of vehicles**  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Gold Medalist – CHARUSAT (CSE)**
-- 🌍 **GSSoC 2024 – Rank 621 / 27,000+**
-- 🏆 **Top Ranker – Dewang Mehta IT Awards**
-- 🧠 **Hackathon Finalist & Winner (National Level)**
+- 🥇 **Gold Medalist – CHARUSAT (2026)**  
+- 🏆 **Top Ranker – Dewang Mehta IT Awards 2024**  
+- 🌍 **GSSoC Contributor (Rank 621 / 27,000+)**  
+- 🧠 **Finalist – National Hackathons & Competitions**  
 
 ---
 
-## 📜 Certifications
-
-- ☁️ AWS Certified AI Practitioner  
-- 📊 AWS Certified Data Engineer – Associate  
-
----
-
-## 📄 Research Publication
+## 📄 Publications
 
 📌 *Garbage Classification using Deep Learning Architectures*  
-🏆 **Best Research Paper Award – CHARUSAT**  
-🔗 https://link.springer.com/chapter/10.1007/978-981-97-2053-8_29  
+- Published at **ICCIS 2023 (Springer)**  
+- 🏆 Awarded **Best Research Paper**
 
 ---
 
-## 🌐 Connect with Me
+## 🤝 Let's Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/jeet0510/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/JEET-0510/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-<a href="https://www.codechef.com/users/jeet_510" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" height="30" width="40" />
-</a>
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/jeet0510/  
+- 📧 Email: jeetprajapati0510@gmail.com  
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeet-0510&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeet-0510&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## ⚡ Fun Fact
-I enjoy turning **complex data problems into scalable AI-powered solutions** 🚀
+⭐️ *"Building scalable systems, solving real-world problems, and continuously evolving as an engineer."*
